@@ -36,6 +36,7 @@ const StaffingLogin = ({id}) => {
      label="Enter Your Password"
      fullWidth
      variant="outlined"
+     type='password'
 
    />
 <button onClick={closeModal} >Login</button>
